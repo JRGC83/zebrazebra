@@ -1,0 +1,11 @@
+- get auth
+- available jobs
+		- apply
+				-accepted
+						- (id, jobid, authid, accepted)
+- post jobs
+		- crud
+			- c (id,authid,title,description,price)
+			
+- auth profile
+
